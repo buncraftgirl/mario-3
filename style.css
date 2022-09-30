@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(deeppink,cyan)
+  }
+  .heading{
+      font-size: 25px;
+      width:100%
+      margin:0px
+      box-shadow:5px 5px 5px silver
+  }
+  .note
+  {
+    font: size 15px;
+    color:aliceblue;
+  }
+  .copy_right_footer {
+    position:fixed;
+    color: rgb(252, 65, 255);
+    bottom:0;
+    width:100%;
+    background-color:silver
+    line-height: 3;
+    text-align:center;
+  }
